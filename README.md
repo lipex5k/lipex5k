@@ -3,6 +3,7 @@
 Meu nome é Felipe Ramos [lipex5k](https://www.instagram.com/euliperb/) 🇧🇷
 
 Sou programador Full-stack(JS). 💻
+
 como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui realmente e DEVraiz
 (joga o poblema q nois resolve)
 
