@@ -9,7 +9,7 @@ como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui
 
 
 
-![giftech](https://github.com/lipex5k/lipex5k/assets/113557336/e414ef40-618c-41e8-8c67-28643bdf2bb0)
+![giftech](https://github.com/lipex5k/lipex5k/assets/113557336/e414ef40-618c-41e8-8c67-28643bdf2bb0) ** ^_^ JOGA A MÃE PRA VER SE QUICA**
 
 
 
