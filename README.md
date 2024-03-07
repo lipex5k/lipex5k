@@ -18,7 +18,7 @@ como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui
 Sou louco por resolver problemas, não me prendo a uma linguagem ou tecnologia. o bom programador é aquele que pega o problema e resolve.
 
 
-          frase que me define: 
+-- frase que me define: --
 ### 🐱‍💻 "Funciona na minha máquina" 🧠💻
 
 - 💻 FULL-STACK developer
