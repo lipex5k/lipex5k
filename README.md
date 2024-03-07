@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**lipex5k/lipex5k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe Ramos (lipex5k) 🇧🇷
 
-Here are some ideas to get you started:
+I am a Programmer and work as a Full-stack developer. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm crazy about solving problems, I don't stick to one language or technology. the good programmer is the one who takes the problem and solves it.
+
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+- 💻 FULL-STACK - 🌈my ig: [@euliperb](https://www.instagram.com/euliperb/)
+
+
