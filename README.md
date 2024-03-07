@@ -1,13 +1,17 @@
-# Hey 👋
+#Ei 👋
 
-My name is Felipe Ramos (lipex5k) 🇧🇷
+Meu nome é Felipe Ramos (lipex5k) 🇧🇷
 
-I am a Programmer and work as a Full-stack developer. 💻
-
-I'm crazy about solving problems, I don't stick to one language or technology. the good programmer is the one who takes the problem and solves it.
-
-### 🐱‍💻 "Na minha máquina funciona" 🧠💻
-
-- 💻 FULL-STACK - 🌈my ig: [@euliperb](https://www.instagram.com/euliperb/)
+Sou programador e trabalho como Full-stack(JS). 💻
+como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui realmente e DEVraiz
+(joga o poblema q nois resolve)
+![giftech](https://github.com/lipex5k/lipex5k/assets/113557336/e414ef40-618c-41e8-8c67-28643bdf2bb0)
 
 
+
+
+Sou louco por resolver problemas, não me prendo a uma linguagem ou tecnologia. o bom programador é aquele que pega o problema e resolve.
+
+### 🐱‍💻 "Funciona na minha máquina" 🧠💻
+
+- 💻 FULL-STACK - 🌈meu ig: [@euliperb](https://www.instagram.com/euliperb/)
