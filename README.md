@@ -1,7 +1,7 @@
 #OLÁ 👋
 
 Meu nome é Felipe Ramos [lipex5k](https://www.instagram.com/euliperb/) 🇧🇷
-<p alight="left"><img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" /></p>p
+<p alight="left"><img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" /></p>
 Sou programador Full-stack(JS). 💻
 
 como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui realmente e DEVraiz
