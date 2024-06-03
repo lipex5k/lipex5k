@@ -1,7 +1,11 @@
 <h1 alight="left">Hi dear 🙌, I'm Felipe Ramos</h1>
 
-Meu nome é Felipe Ramos [lipex5k](https://www.instagram.com/euliperb/) 🇧🇷
-<p alight="left"><img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" /></p>
+
+<p alight="left"><img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" />
+
+  <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" />
+</p>
+
 Sou programador Full-stack(JS). 💻
 
 como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui realmente e DEVraiz
@@ -22,3 +26,4 @@ Sou louco por resolver problemas, não me prendo a uma linguagem ou tecnologia. 
 ### 🐱‍💻 "Funciona na minha máquina" 🧠💻
 
 - 💻 FULL-STACK developer
+
