@@ -1,4 +1,4 @@
-#OLÁ 👋
+<h1 alight="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/hi.gif" width="30px">, I'm Felipe Ramos</h1>
 
 Meu nome é Felipe Ramos [lipex5k](https://www.instagram.com/euliperb/) 🇧🇷
 <p alight="left"><img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" /></p>
