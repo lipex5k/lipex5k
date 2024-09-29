@@ -26,8 +26,8 @@ Aqui estão algumas das principais ferramentas e tecnologias que eu domino:
 - Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS
 - Backend: Node.js, Express.js, MySQL, MongoDB
 - Automação: Python, OpenCV, Selenium
-- Design: Photoshop, Figma, Illustrator
-- Outros: Git, GitHub, Docker, CI/CD
+- Design: Photoshop, Illustrator
+- Outros: Git, GitHub
 
 
   ## 🌐 Conecte-se comigo
