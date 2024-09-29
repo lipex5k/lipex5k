@@ -31,8 +31,8 @@ Aqui estão algumas das principais ferramentas e tecnologias que eu domino:
 
 
 <h1>🌐 Conecte-se comigo</h1>
-  LinkedIn: [https://www.linkedin.com/in/felipe-ramos-14765a29b/](Linkdin)
-  Discord: lipex5k
+  [Meu LinkedIn](https://www.linkedin.com/in/felipe-ramos-14765a29b/)
+  [Discord](https://discordapp.com/users/lipex5k)
   Email: feliperamosdevoffice@gmail.com
 
 Vamos colaborar e criar algo incrível juntos
