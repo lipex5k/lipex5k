@@ -1,4 +1,4 @@
-<h1 alight="left">Hi dear 🙌, I'm Felipe Ramos</h1>
+<h1 alight="left">👋 Hi there, I'm Felipe Ramos</h1>
 
 
 <p alight="left">
@@ -7,24 +7,34 @@
   <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
-Sou programador Full-stack(JS). 💻
+<h1 alight="left">🚀 Full-Stack Developer | Design Social Media | Visionário 🌐</h1>
 
-como voce pode ver não tenho poblemas em pegar outra liguagem/technologia. aqui realmente e DEVraiz
-(joga o poblema q nois resolve)
-
+Sou um Desenvolvedor Full-Stack focado em entregar soluções criativas e funcionais, além de ter 5 anos de experiência na área de Design Social Media. Atualmente, estou sempre buscando aprender e aplicar novas tecnologias, resolvendo problemas de forma eficiente e prática.
 
 
+<h2>💡 Sobre mim</h2>
 
-![giftech](https://github.com/lipex5k/lipex5k/assets/113557336/e414ef40-618c-41e8-8c67-28643bdf2bb0) ** ^_^ JOGA A MÃE PRA VER SE QUICA**
+Sou apaixonado por tecnologia e design, com uma mentalidade voltada para a solução de problemas. Gosto de explorar diferentes linguagens e ferramentas, sempre focando no objetivo final: resolver problemas e criar experiências incríveis para o usuário.
+
+- 🔭 Atualmente estou trabalhando em: Bots de automação, sistemas de agendamento e integração entre design e desenvolvimento.
+- 🌱 Estou estudando: React.js, Node.js, C#, Python, MongoDB, e MySQL.
+
+<h2>⚡️ Tecnologias e Ferramentas</h2>
+
+Aqui estão algumas das principais ferramentas e tecnologias que eu domino:
+
+- Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS
+- Backend: Node.js, Express.js, MySQL, MongoDB
+- Automação: Python, OpenCV, Selenium
+- Design: Photoshop, Figma, Illustrator
+- Outros: Git, GitHub, Docker, CI/CD
 
 
+<h1>🌐 Conecte-se comigo</h1>
+  LinkedIn: (https://www.linkedin.com/in/felipe-ramos-14765a29b/)[Linkdin]
+  Discord: lipex5k
+  Email: feliperamosdevoffice@gmail.com
 
-
-Sou louco por resolver problemas, não me prendo a uma linguagem ou tecnologia. o bom programador é aquele que pega o problema e resolve.
-
-
--- frase que me define: --
-### 🐱‍💻 "Funciona na minha máquina" 🧠💻
-
-- 💻 FULL-STACK developer
+Vamos colaborar e criar algo incrível juntos
+ 
 
