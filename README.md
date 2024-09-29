@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 
-<h1 alight="left">🚀 Full-Stack Developer | Design Social Media | Visionário 🌐</h1>
+<h1 alight="left">🚀 Full-Stack Developer | Design Social Media</h1>
 
 Sou um Desenvolvedor Full-Stack focado em entregar soluções criativas e funcionais, além de ter 5 anos de experiência na área de Design Social Media. Atualmente, estou sempre buscando aprender e aplicar novas tecnologias, resolvendo problemas de forma eficiente e prática.
 
