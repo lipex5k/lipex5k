@@ -2,7 +2,7 @@
 
 
 <p alight="left">
-  <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Profile viwes" />
+  <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Vissualização no perfil" />
 
   <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
