@@ -1,6 +1,17 @@
 <h1 alight="left">👋 Hi there, I'm Felipe Ramos</h1>
 
+name: GitHub-Profile-3D-Contrib
+description: Generate profile 3D Contributions
+author: yoshi389111
 
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
+
+branding:
+  icon: 'box'
+  color: 'green'
+  
 <p alight="left">
   <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Vissualização no perfil" />
 
