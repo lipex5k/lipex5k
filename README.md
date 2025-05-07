@@ -1,9 +1,23 @@
-<h1 alight="left">👋 Hi there, I'm Felipe Ramos</h1>
+<h1 align="left">👋 Olá, eu sou o Felipe Ramos</h1>
 
-name: GitHub-Profile-3D-Contrib
-description: Generate profile 3D Contributions
-author: yoshi389111
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Visualizações no perfil" />
+  <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" alt="Seguidores no GitHub" />
+</p>
 
+---
+
+🧠 **Sobre mim**
+
+Sou um entusiasta da tecnologia, apaixonado por desenvolvimento e por transformar ideias em soluções reais. Atualmente trabalho em projetos que envolvem automações, bots e integrações usando Node.js.
+
+🛠️ **Repositório em destaque:**
+  
+**Nome:** `GitHub-Profile-3D-Contrib`  
+**Descrição:** Gere contribuições em 3D para seu perfil do GitHub  
+**Autor:** lipex5k  
+
+```yaml
 runs:
   using: 'node20'
   main: 'dist/index.js'
@@ -11,20 +25,3 @@ runs:
 branding:
   icon: 'box'
   color: 'green'
-  
-<p alight="left">
-  <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Vissualização no perfil" />
-
-  <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" />
-</p>
-
-  ## 🌐 Conecte-se comigo
-
-- [Meu LinkedIn](https://www.linkedin.com/in/felipe-ramos-14765a29b/)
-- [Discord](https://discord.com/users/lipex5k)
-- **Email:** feliperamosdevoffice@gmail.com
-
-Vamos colaborar e criar algo incrível juntos!
-
- 
-
