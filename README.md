@@ -1,21 +1,25 @@
-<h1 align="left">👋 Olá, eu sou o Felipe Ramos</h1>
+<div align="center" style="max-width: 800px; margin: auto;">
 
-<p align="left">
+<h1>👋 Olá, eu sou o Felipe Ramos</h1>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=lipex5k&color=green" alt="Visualizações no perfil" />
   <img src="https://img.shields.io/github/followers/lipex5k.svg?style=social&label=Follow&maxAge=2592000" alt="Seguidores no GitHub" />
 </p>
 
+<p>
+  Desenvolvedor apaixonado por tecnologia, inovação e soluções criativas. Atualmente focado em projetos com automações, bots e aplicações modernas usando <strong>Node.js</strong>, <strong>JavaScript</strong> e outras ferramentas web.
+</p>
+
 ---
 
-🧠 **Sobre mim**
+<h2>📦 Projeto em destaque</h2>
 
-Sou um entusiasta da tecnologia, apaixonado por desenvolvimento e por transformar ideias em soluções reais. Atualmente trabalho em projetos que envolvem automações, bots e integrações usando Node.js.
+<div align="left">
 
-🛠️ **Repositório em destaque:**
-  
-**Nome:** `GitHub-Profile-3D-Contrib`  
-**Descrição:** Gere contribuições em 3D para seu perfil do GitHub  
-**Autor:** lipex5k  
+<strong>Nome:</strong> <code>GitHub-Profile-3D-Contrib</code><br/>
+<strong>Descrição:</strong> Gere visualizações 3D das suas contribuições no GitHub.<br/>
+<strong>Autor:</strong> lipex5k
 
 ```yaml
 runs:
