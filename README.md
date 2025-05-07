@@ -100,12 +100,6 @@ _Unopar - Anhanguera_
 
 ---
 
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/lipex5k/lipex5k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-
 ## 🧠 Sobre Mim
 
 Sou um criador nato — seja automatizando processos com Python, desenvolvendo interfaces para web ou desenhando marcas únicas, gosto de transformar ideias em soluções concretas.
@@ -119,13 +113,6 @@ Combinando lógica, criatividade e empatia, busco sempre entregar mais do que o 
 Se você tem uma ideia criativa, um projeto desafiador ou só quer trocar uma ideia,  
 **manda uma mensagem!** Quem sabe nasce algo épico?
 
----
 
-## 😂 Brincadeira séria:
-
-> 🧃 Já tive crises existenciais por causa de cabos HDMI.  
-> Moral da história? **Se algo não funcionar... troque o cabo primeiro. Sempre.** 😅
-
----
 
 </div>
