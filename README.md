@@ -11,20 +11,30 @@
   </a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/lipex5k/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:feliperamosdevoffice@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/lipex5k">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://lipexdev.com.br/">
-    <img src="https://img.shields.io/badge/Website-lipexdev.com.br-0abf53?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/lipex5k/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:feliperamosdevoffice@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/lipex5k">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://lipexdev.com.br/">
+        <img src="https://img.shields.io/badge/Website-lipexdev.com.br-0abf53?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,48 +48,61 @@ Transformo código e criatividade em experiências reais. Especialista em automa
 
 ## 🚀 Skills & Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></td>
+  </tr>
+</table>
 
 ---
 
 ## 📚 Formação & Certificações
 
-🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
-_Unopar - Anhanguera (2025–2027)_
+📘 <strong>Curso Superior:</strong>  
+Tecnologia em Análise e Desenvolvimento de Sistemas (2025–2027)  
+_Unopar - Anhanguera_
 
-📜 **Cursos Técnicos**:
-- Manutenção de Micros e Redes – Sophie Link  
-- Design Gráfico – Sophie Link  
-- Informática Avançada – Sophie Link  
-- Informática Básica – Associação do Bairro Rio Verde
+📄 <strong>Cursos Técnicos:</strong>  
+• Manutenção de Micros e Redes – Sophie Link  
+• Design Gráfico – Sophie Link  
+• Informática Avançada – Sophie Link  
+• Informática Básica – Associação do Bairro Rio Verde
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lipex5k&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lipex5k&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipex5k&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lipex5k&show_icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lipex5k&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipex5k&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🐍 Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lipex5k/lipex5k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/lipex5k/lipex5k/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
@@ -93,8 +116,8 @@ Combinando lógica, criatividade e empatia, busco sempre entregar mais do que o 
 
 ## 🤝 Vamos colaborar?
 
-Tem uma ideia? Um bug impossível? Um projeto que precisa de uma identidade?  
-**Manda uma DM ou um e-mail. Quem sabe a gente cria algo épico juntos.**
+Se você tem uma ideia criativa, um projeto desafiador ou só quer trocar uma ideia,  
+**manda uma mensagem!** Quem sabe nasce algo épico?
 
 ---
 
